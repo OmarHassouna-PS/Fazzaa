@@ -43,7 +43,7 @@ We're looking for passionate individuals and organizations to join us in this en
 
 To start contributing to the Fazzaa Tech Platform project, please follow these steps:
 
-1. Check out our [contribution guidelines](#).
+1. Check out our [contribution guidelines](https://github.com/OmarHassouna-PS/Fazzaa/blob/main/CONTRIBUTING.md).
 2. Fork the repository and set up your development environment.
 3. Look through the open issues for areas where you can contribute.
 4. Make your changes and submit a pull request.
